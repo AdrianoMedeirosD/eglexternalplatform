@@ -1,5 +1,5 @@
 #
-# Contribuidor: {{ nome_do_autor(); }}
+# Contribuidor: Adriano Medeiros <adrianomedeirosdeveloper@gmail.com>
 #
 
 pkgname=eglexternalplatform
